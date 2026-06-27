@@ -10,8 +10,7 @@ I use this repository as a progress tracker for learning Python from scratch to 
 - [x] Variables, data types (int, float, str, bool)
 - [x] print(), input(), comments
 - [x] Operators (arithmetic, comparison, logical)
-- [ ] Project: Simple calculator + temperature converter
-
+- [x] Project: Simple calculator + temperature converter
 ### Week 2 — Control Flow
 - [ ] if / elif / else
 - [ ] for loops
